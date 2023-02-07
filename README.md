@@ -1,2 +1,2 @@
-##[A Random Quote Generate](git@github.com:aymanWahman/randomQuote.git)
+##[A Random Quote Generate](https://aymanwahman.github.io/randomQuote/)
 
