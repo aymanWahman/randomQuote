@@ -1,2 +1,0 @@
-# randomQuote
-Random quote generate
